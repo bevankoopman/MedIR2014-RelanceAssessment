@@ -18,3 +18,7 @@ Tab separated file with the following fields:
 where
 
 difficulty: 0=easy, 1=moderage, 2=hard and quality: 0=poor, 1=moderate, 3=high
+
+## trec_medtrack_additional_qrels.txt
+
+The new qrels for additional documents judged. Supplied in the standard TREC qrel format.
